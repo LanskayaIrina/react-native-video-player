@@ -19,7 +19,7 @@
     "react-native-video": "^4.4.4",
     "react-native-web": "^0.11.7",
     "react-navigation": "^4.0.10",
-    "sharp": "^0.23.3",
+    "sharp": "^0.30.5",
     "watchman": "^1.0.0"
   },
   "devDependencies": {
